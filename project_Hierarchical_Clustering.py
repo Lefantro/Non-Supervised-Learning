@@ -2,7 +2,7 @@
 """
 Created on Mon Jul 13 16:26:08 2020
 
-@author: andre
+@author: andreea
 """
 
 #Importing necessary libraries =================================================
